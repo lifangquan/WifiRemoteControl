@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/li/AndroidStudioProjects/WifiRemoteControl/serivertest/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/li/AndroidStudioProjects/WifiRemoteControl/serivertest/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-1106ac878d7d289275b8eb042569280bba0c3d57.jar" />
+    </item>
+    <item
+        jar="/Users/li/AndroidStudioProjects/WifiRemoteControl/serivertest/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/li/AndroidStudioProjects/WifiRemoteControl/serivertest/build/intermediates/pre-dexed/debug/classes-696d043d2fae2bfe0933f00f08c751e7307b5fe8.jar" />
+    </item>
+    <item
+        jar="/Users/li/AndroidStudioProjects/WifiRemoteControl/serivertest/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/li/AndroidStudioProjects/WifiRemoteControl/serivertest/build/intermediates/pre-dexed/debug/classes-cca23e7e087b85358eaab96e45dca36c0475d940.jar" />
+    </item>
+    <item
+        jar="/Users/li/Documents/sdk_mac/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/li/AndroidStudioProjects/WifiRemoteControl/serivertest/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-e964cb84a81e540a2118f07b3030b14cf44505d8.jar" />
+    </item>
+
+</items>

@@ -2,18 +2,25 @@
 <items version="2" >
 
     <item
-        jar="/home/li/Project/WifiRemoteControl-Android/serivertest/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/home/li/Project/WifiRemoteControl-Android/serivertest/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-4994eb8b99d2564bdd61b8259991602e1a925f91.jar" />
-    </item>
-    <item
         jar="/home/li/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
         <dex dex="/home/li/Project/WifiRemoteControl-Android/serivertest/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-4df60ad65cf4c5fb9459010dc8516887e67883a6.jar" />
+    </item>
+    <item
+        jar="/home/li/Project/WifiRemoteControl-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/li/Project/WifiRemoteControl-Android/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-68e617cde0ce1bf9c07fee7646738e1df9c49b62.jar" />
+    </item>
+    <item
+        jar="/home/li/Project/WifiRemoteControl-Android/serivertest/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/li/Project/WifiRemoteControl-Android/serivertest/build/intermediates/pre-dexed/debug/classes-ad286861d4274e724a7feb8275dca7514321adcd.jar" />
     </item>
     <item
         jar="/home/li/Project/WifiRemoteControl-Android/serivertest/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
@@ -23,11 +30,32 @@
         <dex dex="/home/li/Project/WifiRemoteControl-Android/serivertest/build/intermediates/pre-dexed/debug/classes-d80bf3234c570e25f5480061efeffc287161ec70.jar" />
     </item>
     <item
-        jar="/home/li/Project/WifiRemoteControl-Android/serivertest/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jar="/home/li/Project/WifiRemoteControl-Android/serivertest/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/li/Project/WifiRemoteControl-Android/serivertest/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-4994eb8b99d2564bdd61b8259991602e1a925f91.jar" />
+    </item>
+    <item
+        jar="/home/li/Project/WifiRemoteControl-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/home/li/Project/WifiRemoteControl-Android/serivertest/build/intermediates/pre-dexed/debug/classes-ad286861d4274e724a7feb8275dca7514321adcd.jar" />
+        <dex dex="/home/li/Project/WifiRemoteControl-Android/app/build/intermediates/pre-dexed/debug/classes-6f49f3b804e0ee357c3889da8103e4dfcc308b42.jar" />
+    </item>
+    <item
+        jar="/home/li/Project/WifiRemoteControl-Android/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/li/Project/WifiRemoteControl-Android/app/build/intermediates/pre-dexed/debug/classes-074d62d9925b5a79b6ab61c30b6b1fa31467941b.jar" />
+    </item>
+    <item
+        jar="/home/li/Project/WifiRemoteControl-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/li/Project/WifiRemoteControl-Android/app/build/intermediates/pre-dexed/debug/classes-55d0cf5a6a923a5a5c525b2a6b2eeb8fe349926f.jar" />
     </item>
 
 </items>
